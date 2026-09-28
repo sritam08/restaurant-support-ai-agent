@@ -1,0 +1,29 @@
+{
+  "ORD-1001": {
+    "order_id": "ORD-1001",
+    "customer_id": "CUS-101",
+    "items": ["Margherita Pizza"],
+    "total": 299,
+    "payment_status": "Paid",
+    "status": "Preparing",
+    "estimated_delivery": "35 minutes"
+  },
+  "ORD-1005": {
+    "order_id": "ORD-1005",
+    "customer_id": "CUS-105",
+    "items": ["Veg Biryani", "Paneer Tikka"],
+    "total": 420,
+    "payment_status": "Paid",
+    "status": "Out for Delivery",
+    "estimated_delivery": "20 minutes"
+  },
+  "ORD-1010": {
+    "order_id": "ORD-1010",
+    "customer_id": "CUS-110",
+    "items": ["Masala Dosa", "Filter Coffee"],
+    "total": 220,
+    "payment_status": "Pending",
+    "status": "Confirmed",
+    "estimated_delivery": "45 minutes"
+  }
+}

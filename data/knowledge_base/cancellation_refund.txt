@@ -1,0 +1,9 @@
+Cancellation and Refund Policy
+
+Customers may request cancellation before the restaurant starts preparing the order.
+
+Once preparation has started, cancellation may not be possible because ingredients and preparation resources may already have been committed.
+
+If an order is cancelled successfully before preparation, the applicable refund is initiated to the original payment method.
+
+For a payment-deducted but failed-order issue, support review is required and the issue should be escalated through a support ticket.

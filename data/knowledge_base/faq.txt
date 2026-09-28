@@ -1,0 +1,8 @@
+Restaurant FAQ
+
+Operating hours:
+The restaurant operates daily from 10:00 AM to 11:00 PM.
+
+For an order-specific question, the support agent should retrieve the order through the operational order tool rather than relying on general FAQ text.
+
+Customers should provide their order ID when asking about a specific order.

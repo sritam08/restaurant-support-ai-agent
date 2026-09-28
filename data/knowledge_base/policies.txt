@@ -1,0 +1,11 @@
+Operating Policies
+
+Support categories are:
+Payment, Order, Delivery, Refund and Technical.
+
+Support priority values are:
+Low, Medium and High.
+
+Payment failures, payment deductions for failed orders, and refund disputes should be escalated for support review.
+
+The agent must not disclose unrelated customer or order information.

@@ -1,0 +1,7 @@
+Delivery Information
+
+Estimated delivery times shown for an order are estimates and can change because of restaurant preparation time, traffic and delivery availability.
+
+For a current order status, the agent must use the order-status operational tool.
+
+If a delivery is significantly delayed, the customer may contact support for assistance.
